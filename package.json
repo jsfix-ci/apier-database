@@ -22,7 +22,7 @@
   "license": "MIT",
   "main": "index.js",
   "repository": {
-    "git": "https://github.com/Knorcedger/apier-database"
+    "url": "https://github.com/Knorcedger/apier-database"
   },
   "scripts": {
     "test": "eslint index.js"
