@@ -1,0 +1,30 @@
+{
+  "name": "apier-database",
+  "description": "Initializes the database connection",
+  "version": "1.0.0",
+  "author": "Knorcedger",
+  "bugs": "git@github.com:Knorcedger/apier-database.git/issues",
+  "dependencies": {
+    "es6-promise": "^3.1.2",
+    "mongoose": "^4.4.5",
+    "reqlog": "^1.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^2.2.0",
+    "eslint-config-google": "^0.4.0"
+  },
+  "homepage": "git@github.com:Knorcedger/apier-database.git",
+  "keywords": [
+    "apier",
+    "database",
+    "mongoose"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "git": "https://github.com/Knorcedger/apier-database"
+  },
+  "scripts": {
+    "test": "eslint index.js"
+  }
+}
