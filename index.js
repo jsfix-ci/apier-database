@@ -2,6 +2,8 @@ var mongoose = require('mongoose');
 var reqlog = require('reqlog');
 var Promise = require('es6-promise').Promise;
 
+exports.mongoose = mongoose;
+
 exports.connect = function(mongoUrl) {
 	return new Promise(function(resolve, reject) {
 		// initializes the database connection
