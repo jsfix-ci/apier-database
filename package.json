@@ -1,7 +1,7 @@
 {
   "name": "apier-database",
   "description": "Initializes the database connection",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Knorcedger",
   "bugs": "git@github.com:Knorcedger/apier-database.git/issues",
   "dependencies": {
